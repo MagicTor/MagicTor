@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MagicTor, also known as Yussif Jaber.
-- 💞️ My field in IT is network and systems administration.
-- 👀 I’m particularly interested in automation of systems.
-- 🌱 I’m currently learning python.
+- 👋 Hi, I’m Yussif Jaber.
+- 💞️ My field in IT is in cloud development, network, and systems administration. 
+- 👀 I’m particularly interested in automation of tools.
+- 🌱 I’m currently learning python, and uploading daily projects on my 100_Days_of_Code Repository. 
 - 📫 https://www.yussifjaber.com
 
 <!---
