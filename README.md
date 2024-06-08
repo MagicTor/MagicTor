@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yussif Jaber.
 - 💞️ My field in IT is in cloud development, network, and systems administration. 
-- 👀 I’m particularly interested in automation of tools.
-- 🌱 I’m currently learning python, and uploading daily projects on my 100_Days_of_Code Repository. 
+- 👀 I’m particularly interested in automation of IT systems and tools. 
+- 🌱 I’m currently learning.
 - 📫 https://www.yussifjaber.com
 
 <!---
